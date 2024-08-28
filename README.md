@@ -1,10 +1,13 @@
 <img src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" alt="rahul8945" style="width: 300vh;" />
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate about harnessing technology to tackle intricate challenges and drive positive change in society. I continuously seek out new opportunities and challenges to expand my skills and make a lasting impact.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul8945&label=Profile%20views&color=0e75b6&style=flat" alt="rahul8945" /> </p>
 
 - 📫 How to reach me **rg927686@gmail.com**
-
+- ## 📍 Location:
+- Kanpur, Uttar Pradesh, India
+- ## Portfolio:
+- Check out my portfolio: https://your-username.github.io/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-gupta27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-gupta27" height="30" width="40" /></a>
