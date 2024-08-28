@@ -5,9 +5,10 @@
 
 - 📫 How to reach me **rg927686@gmail.com**
 - ## 📍 Location:
-- Kanpur, Uttar Pradesh, India
+- Raipur, Chhattisgarh, India
 - ## Portfolio:
 - Check out my portfolio: https://your-username.github.io/
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-gupta27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-gupta27" height="30" width="40" /></a>
