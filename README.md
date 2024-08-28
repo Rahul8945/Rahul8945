@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul8945&label=Profile%20views&color=0e75b6&style=flat" alt="rahul8945" /> </p>
 
 - 📫 How to reach me **rg927686@gmail.com**
-- ## 📍 Location:
+- ## 📍 Address:
 - Raipur, Chhattisgarh, India
 - ## Portfolio:
 - Check out my portfolio: https://your-username.github.io/
