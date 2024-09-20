@@ -7,7 +7,7 @@
 - ## 📍 Address:
 - Raipur, Chhattisgarh, India
 - ## Portfolio:
-- Check out my portfolio: https://your-username.github.io/
+- Check out my portfolio: https://rahulgupta-portfolioo.netlify.app/
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
