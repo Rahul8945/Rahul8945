@@ -76,8 +76,8 @@ Feel free to reach out at rg927686@gmail.com or connect with me on <a href="http
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
+
+<!-- <br>
 <div width="100%" align="center">
  <a align="left" href="https://github.com/Mayank8683/Cloud-Climbers_045" title="Cloud-Climbers_045"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank8683&repo=Cloud-Climbers_045&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/rajatsah95/Tesla_Techies_038" title="Tesla_Techies_038"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=rajatsah95&repo=Tesla_Techies_038&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -86,8 +86,8 @@ Feel free to reach out at rg927686@gmail.com or connect with me on <a href="http
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Rahul8945/Shayari" title="Shayari"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul8945&repo=Shayari&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/vibhor121/Brahmaputra-Function-003" title="Brahmaputra-Function-003"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=vibhor121&repo=Brahmaputra-Function-003&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+</div> -->
+<!-- <br/><br/><br/><br/><br/><br/> -->
 
 
 <h4 align="center">
