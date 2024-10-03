@@ -7,7 +7,14 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/rahul-gupta-3459512ab/" title="LinkedIn Profile"><img width="35" src="https://img.icons8.com/fluency/48/000000/linkedin.png"> LinkedIn</a></code>
+  
+  <a href="mailto:rg927686@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/rahul-gupta-3459512ab/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 </h5>
 <br>
 <h3 align="center">"🚀 Full Stack Web Developer | Passionate about creating seamless user experiences and robust backend functionality. Skilled in HTML, CSS, SCSS, JavaScript, React, Node.js, and Express.js. Always exploring new technologies and best practices to build scalable web applications."</h3>
@@ -88,7 +95,21 @@ Feel free to reach out at rg927686@gmail.com or connect with me on <a href="http
   <a align="right" href="https://github.com/vibhor121/Brahmaputra-Function-003" title="Brahmaputra-Function-003"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=vibhor121&repo=Brahmaputra-Function-003&theme=react&border_color=61dafb&border_radius=10"></a>
 </div> -->
 <!-- <br/><br/><br/><br/><br/><br/> -->
+### 💼 Projects
 
+Here are some of the notable projects I have worked on:
+
+1.**Shayari Generator Application**
+
+A web application that uses Google Gemini AI to generate beautiful and personalized Shayari (poetry) in Hindi. Users can input keywords, and the application crafts unique Shayari based on the given input.
+
+Features: User keyword input, AI-powered Shayari generation, personalization, and support for Hindi language.
+
+2.**DocEase**
+
+A powerful document management application inspired by Notion Docs. It enables users to create, organize, and collaborate on documents in a flexible and user-friendly environment. With advanced features like real-time collaboration, document versioning, and a rich text editor, DocEase simplifies managing notes, projects, and ideas.
+
+Features: Real-time collaboration, document versioning, rich text editor, and project organization.
 
 <h4 align="center">
   <a href="https://github.com/rahul8945?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
